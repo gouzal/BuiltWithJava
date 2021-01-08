@@ -8,10 +8,10 @@ Vuze
 FlashGet
 
 ## IDE
-Eclipse
-NetBeans
-JDeveloper
-Intellij IDEA
-BlueJ
-JBuilder (Discontinued)
+Eclipse  
+NetBeans  
+JDeveloper  
+Intellij IDEA  
+BlueJ  
+JBuilder (Discontinued)  
 
