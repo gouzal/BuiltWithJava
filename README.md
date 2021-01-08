@@ -1,5 +1,5 @@
 # BuiltWithJava
-a list of softwars built totally or partially with Java Technologie
+a list of Desktop Apps built totally or partially with Java Technologie
 
 ## Download Clients
 LimeWire  
@@ -19,3 +19,7 @@ JBuilder (Discontinued)
 LibreOffice/Apache OpenOffice/ NeoOffice/StarOffice  
 Hancom Office
 GantProject
+
+# BI
+iReport  
+Talend
