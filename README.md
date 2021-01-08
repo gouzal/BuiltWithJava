@@ -16,6 +16,6 @@ BlueJ
 JBuilder (Discontinued)  
 
 ## Offices
-LibreOffice  
+LibreOffice/Apache OpenOffice/ NeoOffice/StarOffice  
 Hancom Office
 GantProject
