@@ -1,5 +1,5 @@
 # BuiltWithJava
-a list of softwars and services built totally or partially with Java Technologie
+a list of softwars built totally or partially with Java Technologie
 
 ## Download Clients
 LimeWire  
@@ -8,4 +8,10 @@ Vuze
 FlashGet
 
 ## IDE
+Eclipse
+NetBeans
+JDeveloper
+Intellij IDEA
+BlueJ
+JCreator
 
