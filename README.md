@@ -13,5 +13,5 @@ NetBeans
 JDeveloper
 Intellij IDEA
 BlueJ
-JCreator
+JBuilder (Discontinued)
 
