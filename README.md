@@ -2,7 +2,7 @@
 a list of Desktop Apps built totally or partially with Java Technologie
 
 ## Download Clients
-[LimeWire](https://en.wikipedia.org/wiki/LimeWire)  
+[LimeWire](https://en.wikipedia.org/wiki/LimeWire)(Discontinued)    
 [FostWire](https://www.frostwire.com/)    
 Vuze  
 FlashGet
