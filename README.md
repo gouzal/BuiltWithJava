@@ -5,7 +5,7 @@ a list of Desktop Apps built totally or partially with Java Technologie
 [LimeWire](https://en.wikipedia.org/wiki/LimeWire)(Discontinued)    
 [FostWire](https://www.frostwire.com/)    
 [Vuze](http://www.vuze.com/)  
-FlashGet
+[FlashGet](http://www.flashget.com/index_en.html)
 
 ## IDE
 Eclipse  
