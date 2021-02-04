@@ -8,7 +8,7 @@ a list of Desktop Apps built totally or partially with Java Technologie
 [FlashGet](http://www.flashget.com/index_en.html)
 
 ## IDE
-Eclipse  
+[Eclipse](https://www.eclipse.org/downloads/)  
 NetBeans  
 JDeveloper  
 Intellij IDEA  
