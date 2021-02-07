@@ -12,7 +12,7 @@ a list of Desktop Apps built totally or partially with Java Technologie
 [NetBeans](https://netbeans.apache.org/)  
 JDeveloper  
 [Intellij IDEA](https://www.jetbrains.com/idea/)  
-BlueJ  
+[BlueJ](https://bluej.org/)  
 JBuilder (Discontinued)  
 
 ## Offices
