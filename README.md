@@ -10,7 +10,7 @@ a list of Desktop Apps built totally or partially with Java Technologie
 ## IDE
 [Eclipse](https://www.eclipse.org/downloads/)  
 [NetBeans](https://netbeans.apache.org/)  
-JDeveloper  
+[JDeveloper](https://www.oracle.com/application-development/technologies/jdeveloper.html)    
 [Intellij IDEA](https://www.jetbrains.com/idea/)  
 [BlueJ](https://bluej.org/)  
 JBuilder (Discontinued)  
