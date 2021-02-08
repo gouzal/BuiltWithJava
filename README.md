@@ -13,7 +13,7 @@ a list of Desktop Apps built totally or partially with Java Technologie
 [JDeveloper](https://www.oracle.com/application-development/technologies/jdeveloper.html)    
 [Intellij IDEA](https://www.jetbrains.com/idea/)  
 [BlueJ](https://bluej.org/)  
-JBuilder (Discontinued)  
+[JBuilder](https://en.wikipedia.org/wiki/JBuilder) (Discontinued)  
 
 ## Offices
 LibreOffice/Apache OpenOffice/ NeoOffice/StarOffice  
