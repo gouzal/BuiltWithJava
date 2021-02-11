@@ -21,5 +21,5 @@ Hancom Office
 [GantProject](https://www.ganttproject.biz/)
 
 # BI
-iReport  
+[iReport](https://en.wikipedia.org/wiki/JasperReports)  
 Talend
