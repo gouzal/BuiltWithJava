@@ -22,4 +22,4 @@ Hancom Office
 
 # BI
 [iReport](https://en.wikipedia.org/wiki/JasperReports)  
-Talend
+[Talend](https://www.talend.com/products/talend-open-studio/)
