@@ -17,7 +17,7 @@ a list of Desktop Apps built totally or partially with Java Technologie
 
 ## Offices
 LibreOffice/Apache OpenOffice/ NeoOffice/StarOffice  
-Hancom Office
+Hancom Office  
 [GantProject](https://www.ganttproject.biz/)
 
 # BI
