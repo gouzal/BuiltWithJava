@@ -16,7 +16,7 @@ a list of Desktop Apps built totally or partially with Java Technologie
 [JBuilder](https://en.wikipedia.org/wiki/JBuilder) (Discontinued)  
 
 ## Offices
-LibreOffice/Apache OpenOffice/ NeoOffice/StarOffice  
+LibreOffice/Apache OpenOffice/ NeoOffice/StarOffice   (https://office.hancom.com/)    
 [Hancom Office](https://office.hancom.com/)  
 [GantProject](https://www.ganttproject.biz/)
 
