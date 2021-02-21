@@ -1,5 +1,5 @@
 # BuiltWithJava
-a list of Desktop Apps built totally or partially with Java Technologie
+a list of Desktop Apps built totally or partially with Java Technology
 
 ## Download Clients
 [LimeWire](https://en.wikipedia.org/wiki/LimeWire)(Discontinued)    
