@@ -7,15 +7,13 @@ a list of Desktop Apps built totally or partially with Java Technology
 [Vuze](http://www.vuze.com/)  
 [FlashGet](http://www.flashget.com/index_en.html)
 
-## IDE
+## Database and  Software development
 [Eclipse](https://www.eclipse.org/downloads/)  
 [NetBeans](https://netbeans.apache.org/)  
 [JDeveloper](https://www.oracle.com/application-development/technologies/jdeveloper.html)    
 [Intellij IDEA](https://www.jetbrains.com/idea/)  
 [BlueJ](https://bluej.org/)  
 [JBuilder](https://en.wikipedia.org/wiki/JBuilder) (Discontinued)  
-
-# Software Design
 [AnalyseSI](https://framalibre.org/content/analysesi)  
 [DBeaver](https://dbeaver.io/)
 
