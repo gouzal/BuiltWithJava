@@ -15,6 +15,10 @@ a list of Desktop Apps built totally or partially with Java Technology
 [BlueJ](https://bluej.org/)  
 [JBuilder](https://en.wikipedia.org/wiki/JBuilder) (Discontinued)  
 
+# Software Design
+[AnalyseSI](https://framalibre.org/content/analysesi)  
+[DBeaver](https://dbeaver.io/)
+
 ## Offices
 [LibreOffice](https://www.libreoffice.org/)/[Apache OpenOffice](https://www.openoffice.org/)/ [NeoOffice](https://www.neooffice.org/neojava/en/index.php)/[StarOffice](https://en.wikipedia.org/wiki/StarOffice) [ThinkFree Office](http://office.hancom.com)    
 [Hancom Office](https://office.hancom.com/)  
@@ -23,3 +27,5 @@ a list of Desktop Apps built totally or partially with Java Technology
 # BI
 [iReport](https://en.wikipedia.org/wiki/JasperReports)  
 [Talend](https://www.talend.com/products/talend-open-studio/)
+
+
